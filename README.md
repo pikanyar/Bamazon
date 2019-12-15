@@ -19,7 +19,7 @@ Once the customer has placed the order, the application will check if the store 
 
 If not, the app will log a phrase like Insufficient quantity!, and then prevent the order from going through.
 
-![GitHub Logo](/images/Screenshot1.png)
+![GitHub Logo](/images/Screenshot11.png)
 
 
 ## Technologies Used 
@@ -34,7 +34,7 @@ If not, the app will log a phrase like Insufficient quantity!, and then prevent 
 
 ## MySQL
 
-![GitHub Logo](/images/Screenshot2.png)
+![GitHub Logo](/images/Screenshot22.png)
 
 
 
